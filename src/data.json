@@ -1,0 +1,327 @@
+[
+    {
+        "company": "Samsung Electronics Co. Ltd.",
+        "values": [
+            {
+                "year": 2008,
+                "count": 579,
+                "indicator": 1.797084635894941
+            },
+            {
+                "year": 2009,
+                "count": 1988,
+                "indicator": 1.7910067406112113
+            },
+            {
+                "year": 2010,
+                "count": 3970,
+                "indicator": 1.6790424503828512
+            },
+            {
+                "year": 2011,
+                "count": 4752,
+                "indicator": 1.6191894686059485
+            },
+            {
+                "year": 2012,
+                "count": 4949,
+                "indicator": 1.6140214396865813
+            },
+            {
+                "year": 2013,
+                "count": 7112,
+                "indicator": 1.6009889783990325
+            },
+            {
+                "year": 2014,
+                "count": 8228,
+                "indicator": 1.5646307400822395
+            },
+            {
+                "year": 2015,
+                "count": 9185,
+                "indicator": 1.5406819811441177
+            },
+            {
+                "year": 2016,
+                "count": 10291,
+                "indicator": 1.518876619813892
+            },
+            {
+                "year": 2017,
+                "count": 9702,
+                "indicator": 1.551756070153353
+            },
+            {
+                "year": 2018,
+                "count": 11012,
+                "indicator": 1.4870695740019757
+            },
+            {
+                "year": 2019,
+                "count": 3805,
+                "indicator": 1.4777972177069811
+            }
+        ]
+    },
+    {
+        "company": "LG Electronics Inc.",
+        "values": [
+            {
+                "year": 2008,
+                "count": 400,
+                "indicator": 1.550236823089402
+            },
+            {
+                "year": 2009,
+                "count": 1341,
+                "indicator": 1.3915975778289507
+            },
+            {
+                "year": 2010,
+                "count": 1861,
+                "indicator": 1.2884731382272077
+            },
+            {
+                "year": 2011,
+                "count": 1909,
+                "indicator": 1.3708735051241043
+            },
+            {
+                "year": 2012,
+                "count": 2391,
+                "indicator": 1.342998237591713
+            },
+            {
+                "year": 2013,
+                "count": 3437,
+                "indicator": 1.2943545694541527
+            },
+            {
+                "year": 2014,
+                "count": 4297,
+                "indicator": 1.2660058436616768
+            },
+            {
+                "year": 2015,
+                "count": 4354,
+                "indicator": 1.3406915722575234
+            },
+            {
+                "year": 2016,
+                "count": 5262,
+                "indicator": 1.331686256717931
+            },
+            {
+                "year": 2017,
+                "count": 5413,
+                "indicator": 1.3838789599356214
+            },
+            {
+                "year": 2018,
+                "count": 4480,
+                "indicator": 1.4054576671034735
+            },
+            {
+                "year": 2019,
+                "count": 2282,
+                "indicator": 1.3509946225761311
+            }
+        ]
+    },
+    {
+        "company": "Telefonaktiebolaget LM Ericsson (publ)",
+        "values": [
+            {
+                "year": 2008,
+                "count": 336,
+                "indicator": 1.3737652650538912
+            },
+            {
+                "year": 2009,
+                "count": 767,
+                "indicator": 1.3296024693396462
+            },
+            {
+                "year": 2010,
+                "count": 1232,
+                "indicator": 1.3133669176021996
+            },
+            {
+                "year": 2011,
+                "count": 1512,
+                "indicator": 1.3045167521693943
+            },
+            {
+                "year": 2012,
+                "count": 1971,
+                "indicator": 1.2598264805964887
+            },
+            {
+                "year": 2013,
+                "count": 2790,
+                "indicator": 1.2405162242694587
+            },
+            {
+                "year": 2014,
+                "count": 3907,
+                "indicator": 1.218802534840174
+            },
+            {
+                "year": 2015,
+                "count": 4584,
+                "indicator": 1.2098861073991363
+            },
+            {
+                "year": 2016,
+                "count": 5304,
+                "indicator": 1.2183583330837102
+            },
+            {
+                "year": 2017,
+                "count": 5456,
+                "indicator": 1.272151525444272
+            },
+            {
+                "year": 2018,
+                "count": 6009,
+                "indicator": 1.301837544958223
+            },
+            {
+                "year": 2019,
+                "count": 1731,
+                "indicator": 1.494769227484928
+            }
+        ]
+    },
+    {
+        "company": "Huawei Technologies Co., Ltd.",
+        "values": [
+            {
+                "year": 2008,
+                "count": 39,
+                "indicator": 1.5079890214479887
+            },
+            {
+                "year": 2009,
+                "count": 90,
+                "indicator": 1.4849491770877394
+            },
+            {
+                "year": 2010,
+                "count": 115,
+                "indicator": 1.4536703326485374
+            },
+            {
+                "year": 2011,
+                "count": 260,
+                "indicator": 1.4877608645529974
+            },
+            {
+                "year": 2012,
+                "count": 477,
+                "indicator": 1.4948227191047303
+            },
+            {
+                "year": 2013,
+                "count": 972,
+                "indicator": 1.5634014330026158
+            },
+            {
+                "year": 2014,
+                "count": 2034,
+                "indicator": 1.6107477804976336
+            },
+            {
+                "year": 2015,
+                "count": 2990,
+                "indicator": 1.5621990508693673
+            },
+            {
+                "year": 2016,
+                "count": 5232,
+                "indicator": 1.4780816343712913
+            },
+            {
+                "year": 2017,
+                "count": 6651,
+                "indicator": 1.4523604631922762
+            },
+            {
+                "year": 2018,
+                "count": 6789,
+                "indicator": 1.4183268147220063
+            },
+            {
+                "year": 2019,
+                "count": 2605,
+                "indicator": 1.3675542722804712
+            }
+        ]
+    },
+    {
+        "company": "NTT DOCOMO, Inc.",
+        "values": [
+            {
+                "year": 2008,
+                "count": 180,
+                "indicator": 1.3427073895931243
+            },
+            {
+                "year": 2009,
+                "count": 327,
+                "indicator": 1.2822408623555128
+            },
+            {
+                "year": 2010,
+                "count": 594,
+                "indicator": 1.3461095073722034
+            },
+            {
+                "year": 2011,
+                "count": 826,
+                "indicator": 1.3546324424582756
+            },
+            {
+                "year": 2012,
+                "count": 1362,
+                "indicator": 1.3873110096818626
+            },
+            {
+                "year": 2013,
+                "count": 1864,
+                "indicator": 1.4005901926956292
+            },
+            {
+                "year": 2014,
+                "count": 3069,
+                "indicator": 1.4008361257973811
+            },
+            {
+                "year": 2015,
+                "count": 2636,
+                "indicator": 1.4134532267415556
+            },
+            {
+                "year": 2016,
+                "count": 3431,
+                "indicator": 1.4209447355009004
+            },
+            {
+                "year": 2017,
+                "count": 4592,
+                "indicator": 1.4770475587401635
+            },
+            {
+                "year": 2018,
+                "count": 5026,
+                "indicator": 1.5313226034881688
+            },
+            {
+                "year": 2019,
+                "count": 3946,
+                "indicator": 1.5405932495956258
+            }
+        ]
+    }
+]
